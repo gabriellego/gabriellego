@@ -1,0 +1,39 @@
+.header{
+    left: 5px;
+    top: 20px;
+    bottom: 10px;
+    border: lightgray;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    background-color: lightgray;
+    padding-top: 0px;
+}
+.mainbody{
+    right: 5px;
+    left: 5px;
+    height: 325px;
+    margin: 10px;
+    top: 5px;
+    padding: 20px;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+body{
+    background-color: gray;
+}
+.footer{
+height: 40px;
+bottom: 0px;
+background-color:gray;
+padding-bottom: 10px;
+padding-top: 150px;
+font-size: 20px;
+}
+.copyrightend{
+    font-style: italic;
+}
+.create{
+    font-style: normal;
+    text-decoration: underline;
+}

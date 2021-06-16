@@ -1,0 +1,44 @@
+body{
+    background-color:bisque;
+}
+h2{ 
+    color: black;
+    font-size: 40px;
+    font-style: unset;
+}
+h3{
+    color: rgb(68, 19, 68);
+    font-style: italic;
+}
+p{
+    text-align: center;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+li{
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contactinfo{
+    color: black;
+    text-align: center;
+}
+.thephonenumber{
+    text-align: center;
+}
+.theemail{
+    text-align: center;
+}
+.mygoodlifeya{
+    color: rgb(133, 60, 133);
+    text-decoration: underline;
+}
+.bottomgo{
+    text-decoration: underline;
+    color: rgb(95, 40, 95);
+}
+.backtoresume{
+    text-decoration: underline;
+    color: rgb(95, 35, 95);
+}
